@@ -9,7 +9,7 @@ The most awesome tools & resources to improve your poker game!
 - [Poker Data](#poker-data)
   - [Hand Logs](#hand-logs)
 - [Poker Tools](#poker-tools)
-  - [Automated Table Interaction](#automated-table-interaction)
+  - [Automated Table Interaction](#automated-table-interaction)
   - [Casinos](#casinos)
   - [Frameworks](#frameworks)
   - [Hand Equity Calculators](#hand-equity-calculators)
@@ -115,6 +115,7 @@ Host environments similar to online playing plateforms, often without gui. They 
 - [Annual Computer Poker Competition](http://www.computerpokercompetition.org/) - Competition in NLHM held every year at the [AAAI](http://www.aaai.org/Conferences/AAAI/aaai.php).
   ![NLHM][nlhm-badge]
 - [Brains vs AI](https://www.riverscasino.com/pittsburgh/BrainsVsAI/) - Competition held by the Pittsburgh Rivers Casino, in 2015 and 2017.
+- [MIT Pokerbots Competition](https://pokerbots.org/) - Yearly competition held in MIT, behind closed doors.
 
 ### AI Programs
 
@@ -196,8 +197,6 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Credits
 
-See [AUTHORS](AUTHORS.md)
-
 This project was initially created with [Cookiecutter][cookiecutter] and the custom [cookiecutter-awesome][cookiecutter-awesome] :cookie:
 
 ## License
@@ -212,7 +211,7 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 [CC0-badge]: http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg
 [CC0-link]: https://creativecommons.org/publicdomain/zero/1.0/
 [cookiecutter]: https://github.com/audreyr/cookiecutter
-[cookiecutter-awesome]: https://github.com/apehex/cookiecutter-git
+[cookiecutter-awesome]: https://github.com/moodule/cookiecutter-git
 
 [c-badge]: https://img.shields.io/badge/-C-blue.svg?style=flat&logo=c&colorA=grey
 [cplusplus-badge]: https://img.shields.io/badge/-C%2B%2B-blue.svg?style=flat&logo=cplusplus&colorA=grey

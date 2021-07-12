@@ -27,6 +27,6 @@ Thank you for your suggestions!
 Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md).
 By participating in this project you agree to abide by its terms.
 
-[issue-link]: https://github.com/apehex/awesome-poker/issues/new
-[merge-link]: https://github.com/apehex/awesome-poker/compare
+[issue-link]: https://github.com/moodule/awesome-poker/issues/new
+[merge-link]: https://github.com/moodule/awesome-poker/compare
 [chris-beams]: http://chris.beams.io/posts/git-commit/
