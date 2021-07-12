@@ -62,6 +62,12 @@ Host environments similar to online playing plateforms, often without gui. They 
   ![NLHM][nlhm-badge]
   ![C Language][c-badge]
   ![Open Source Love][open-source-badge]
+- [MIT Pokerbots Engine](https://github.com/mitpokerbots/engine) - Host service for the MIT Pokerbots Competitions
+  ![any players][any-players]
+  ![NLHM][nlhm-badge]
+  ![C Language][cplusplus-badge]
+  ![Python Language][python-badge]
+  ![Open Source Love][open-source-badge]
 
 ### Frameworks
 
@@ -116,6 +122,7 @@ Host environments similar to online playing plateforms, often without gui. They 
   ![NLHM][nlhm-badge]
 - [Brains vs AI](https://www.riverscasino.com/pittsburgh/BrainsVsAI/) - Competition held by the Pittsburgh Rivers Casino, in 2015 and 2017.
 - [MIT Pokerbots Competition](https://pokerbots.org/) - Yearly competition held in MIT, behind closed doors.
+  ![NLHM][nlhm-badge]
 
 ### AI Programs
 
@@ -166,7 +173,7 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ## Poker Coaching
 
-## Poker Community
+## Poker Community
 
 ### Forums
 
