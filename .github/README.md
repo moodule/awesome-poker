@@ -146,6 +146,11 @@ Host environments similar to online playing plateforms, often without gui. They 
   ![Lua Language][lua-badge]
   ![C Language][c-badge]
   ![Open Source Love][open-source-badge]
+- [NFSP](https://github.com/EricSteinberger/Neural-Fictitous-Self-Play) - A self improving agent based on "Neural Fictitous Self-Play".
+  ![2 players][2-player]
+  ![Leduc HM][leduchm-badge]
+  ![Python Language][python-badge]
+  ![Open Source Love][open-source-badge]
 - [RLCard](https://github.com/datamllab/rlcard) - RLCard has CFR, DQN & NFSP agents built-in!
   ![any players][any-players]
   ![Leduc HM][leduchm-badge]
@@ -223,10 +228,11 @@ Host environments similar to online playing plateforms, often without gui. They 
 
 ## Poker and Gaming Papers
 
-- [Deep CFR](https://arxiv.org/pdf/1811.00164.pdf) - Eric Steinberger, "Deep Counterfactual Regret Minimization", arXiv 2019.
+- [Deep CFR](https://arxiv.org/pdf/1811.00164.pdf) - E. Steinberger, "Deep Counterfactual Regret Minimization", arXiv 2019.
 - [DeepStack study](https://www.deepstack.ai/s/DeepStack.pdf) - Joint study that led to the [DeepStack agent](https://github.com/lifrordi/DeepStack-Leduc).
-- [DouZero paper](https://github.com/kwai/DouZero) - Zha, Daochen, et al. "DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning." arXiv (2021).
+- [DouZero paper](https://github.com/kwai/DouZero) - Zha, Daochen, et al. "DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning." arXiv 2021.
 - [Libratus study](https://www.cs.cmu.edu/~noamb/papers/17-arXiv-Subgame.pdf) - Study realised by the CMU exposing part of the Libratus bot ; published at the NIPS 2017.
+- [NFSP paper](https://arxiv.org/pdf/1603.01121.pdf) - J. Heinrich, D. Silver, "Deep Reinforcement Learning from Self-Play in Imperfect-Information Games", arXiv 2016.
 - [RLCard paper](https://github.com/datamllab/rlcard) - Zha, Daochen, et al. "RLCard: A Platform for Reinforcement Learning in Card Games." IJCAI. 2020.
 - [Single Deep CFR](https://arxiv.org/pdf/1901.07621.pdf) - Eric Steinberger, "Single Deep Counterfactual Regret Minimization", arXiv 2019.
 - [Superhuman AI for multiplayer poker](https://science.sciencemag.org/content/early/2019/07/10/science.aay2400) - Paper on the Pluribus agent ; published in Science on July 2019.
