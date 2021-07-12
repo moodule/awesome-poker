@@ -20,6 +20,7 @@ The most awesome tools & resources to improve your poker game!
   - [AI Programs](#bot-programs)
     - [Leduc Hold'em](#leduc-holdem)
     - [No-Limit Hold'em](#no-limit-holdem)
+    - [Similar Games](#similar-games)
 - [Poker Coaching](#poker-coaching)
 - [Poker Community](#poker-community)
   - [Forums](#forums)
