@@ -66,6 +66,7 @@ Host environments similar to online playing plateforms, often without gui. They 
   ![any players][any-players]
   ![NLHM][nlhm-badge]
   ![C Language][cplusplus-badge]
+  ![Java Language][java-badge]
   ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
 
@@ -223,6 +224,7 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 [c-badge]: https://img.shields.io/badge/-C-blue.svg?style=flat&logo=c&colorA=grey
 [cplusplus-badge]: https://img.shields.io/badge/-C%2B%2B-blue.svg?style=flat&logo=cplusplus&colorA=grey
 [csharp-badge]: https://img.shields.io/badge/-C%23-blue.svg?style=flat&logo=csharp&colorA=grey
+[java-badge]: https://img.shields.io/badge/-Java-blue.svg?style=flat&logo=java&colorA=grey
 [javascript-badge]: https://img.shields.io/badge/-Js-blue.svg?style=flat&logo=javascript&colorA=grey
 [lua-badge]: https://img.shields.io/badge/-Lua-blue.svg?style=flat&logo=lua&colorA=grey
 [open-source-badge]: https://img.shields.io/badge/-OS-red.svg?style=flat&logo=github&colorA=grey
