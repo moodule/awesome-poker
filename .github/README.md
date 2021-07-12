@@ -63,20 +63,20 @@ Host environments similar to online playing plateforms, often without gui. They 
   ![C Language][c-badge]
   ![Open Source Love][open-source-badge]
 - [MIT Pokerbots Engine](https://github.com/mitpokerbots/engine) - Host service for the MIT Pokerbots Competitions.
-  ![any players][any-players]
+  ![any players][any-player]
   ![NLHM][nlhm-badge]
   ![C Language][cplusplus-badge]
   ![Java Language][java-badge]
   ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
 - [PokerRL](https://github.com/EricSteinberger/PokerRL) - Framework for Multi-Agent Deep Reinforcement Learning in Poker.
-  ![any players][any-players]
+  ![any players][any-player]
   ![Leduc HM][leduchm-badge]
   ![NLHM][nlhm-badge]
   ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
 - [RLCard](https://github.com/datamllab/rlcard) - RLCard is a toolkit for Reinforcement Learning (RL) in card games.
-  ![any players][any-players]
+  ![any players][any-player]
   ![Leduc HM][leduchm-badge]
   ![NLHM][nlhm-badge]
   ![Python Language][python-badge]
@@ -158,7 +158,7 @@ Host environments similar to online playing plateforms, often without gui. They 
   ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
 - [RLCard](https://github.com/datamllab/rlcard) - RLCard has CFR, DQN & NFSP agents built-in!
-  ![any players][any-players]
+  ![any players][any-player]
   ![Leduc HM][leduchm-badge]
   ![NLHM][nlhm-badge]
   ![Python Language][python-badge]
@@ -173,7 +173,7 @@ Host environments similar to online playing plateforms, often without gui. They 
   ![2 players][2-player]
   ![LHM][lhm-badge]
 - [DeepHoldem](https://github.com/happypepper/DeepHoldem) - Implementation of DeepStack for NLHM, extended from DeepStack-Leduc
-  ![any players][any-players]
+  ![any players][any-player]
   ![NLHM][nlhm-badge]
   ![Lua Language][lua-badge]
   ![Open Source Love][open-source-badge]
@@ -202,7 +202,7 @@ Host environments similar to online playing plateforms, often without gui. They 
   ![6 players][6-player]
   ![NLHM][nlhm-badge]
 - [RLCard](https://github.com/datamllab/rlcard) - RLCard has CFR, DQN & NFSP agents built-in!
-  ![any players][any-players]
+  ![any players][any-player]
   ![Leduc HM][leduchm-badge]
   ![NLHM][nlhm-badge]
   ![Python Language][python-badge]
@@ -214,7 +214,7 @@ Host environments similar to online playing plateforms, often without gui. They 
 ### Similar Games
 
 - [DouZero](https://github.com/kwai/DouZero) - DouZero is a reinforcement learning framework for [DouDizhu](https://en.wikipedia.org/wiki/Dou_dizhu).
-  ![any players][any-players]
+  ![any players][any-player]
   ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
 
