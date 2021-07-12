@@ -62,11 +62,17 @@ Host environments similar to online playing plateforms, often without gui. They 
   ![NLHM][nlhm-badge]
   ![C Language][c-badge]
   ![Open Source Love][open-source-badge]
-- [MIT Pokerbots Engine](https://github.com/mitpokerbots/engine) - Host service for the MIT Pokerbots Competitions
+- [MIT Pokerbots Engine](https://github.com/mitpokerbots/engine) - Host service for the MIT Pokerbots Competitions.
   ![any players][any-players]
   ![NLHM][nlhm-badge]
   ![C Language][cplusplus-badge]
   ![Java Language][java-badge]
+  ![Python Language][python-badge]
+  ![Open Source Love][open-source-badge]
+- [PokerRL](https://github.com/EricSteinberger/PokerRL) - Framework for Multi-Agent Deep Reinforcement Learning in Poker.
+  ![any players][any-players]
+  ![Leduc HM][leduchm-badge]
+  ![NLHM][nlhm-badge]
   ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
 - [RLCard](https://github.com/datamllab/rlcard) - RLCard is a toolkit for Reinforcement Learning (RL) in card games.
