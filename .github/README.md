@@ -144,6 +144,11 @@ Host environments similar to online playing plateforms, often without gui. They 
 - [Clever Piggy](http://www.cleverpiggy.com/limitbot) - Bot made by Allen Cunningham ; you can play it.
   ![2 players][2-player]
   ![LHM][lhm-badge]
+- [DeepHoldem](https://github.com/happypepper/DeepHoldem) - Implementation of DeepStack for NLHM, extended from DeepStack-Leduc
+  ![any players][any-players]
+  ![NLHM][nlhm-badge]
+  ![Lua Language][lua-badge]
+  ![Open Source Love][open-source-badge]
 - [DeepStack](https://www.deepstack.ai/) - Latest bot from the UA CPRG.
   ![2 players][2-player]
   ![NLHM][nlhm-badge]
