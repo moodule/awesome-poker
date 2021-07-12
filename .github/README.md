@@ -69,6 +69,12 @@ Host environments similar to online playing plateforms, often without gui. They 
   ![Java Language][java-badge]
   ![Python Language][python-badge]
   ![Open Source Love][open-source-badge]
+- [RLCard](https://github.com/datamllab/rlcard) - RLCard is a toolkit for Reinforcement Learning (RL) in card games.
+  ![any players][any-players]
+  ![Leduc HM][leduchm-badge]
+  ![NLHM][nlhm-badge]
+  ![Python Language][python-badge]
+  ![Open Source Love][open-source-badge]
 
 ### Frameworks
 
@@ -135,6 +141,12 @@ Host environments similar to online playing plateforms, often without gui. They 
   ![Lua Language][lua-badge]
   ![C Language][c-badge]
   ![Open Source Love][open-source-badge]
+- [RLCard](https://github.com/datamllab/rlcard) - RLCard has CFR, DQN & NFSP agents built-in!
+  ![any players][any-players]
+  ![Leduc HM][leduchm-badge]
+  ![NLHM][nlhm-badge]
+  ![Python Language][python-badge]
+  ![Open Source Love][open-source-badge]
 
 #### No-Limit Hold'em
 
@@ -173,9 +185,22 @@ Host environments similar to online playing plateforms, often without gui. They 
 - [Pluribus](https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/) - The first bot to beat 6-player poker, from Facebook.
   ![6 players][6-player]
   ![NLHM][nlhm-badge]
+- [RLCard](https://github.com/datamllab/rlcard) - RLCard has CFR, DQN & NFSP agents built-in!
+  ![any players][any-players]
+  ![Leduc HM][leduchm-badge]
+  ![NLHM][nlhm-badge]
+  ![Python Language][python-badge]
+  ![Open Source Love][open-source-badge]
 - [Sartre](https://web.archive.org/web/20180130155605/https://www.cs.auckland.ac.nz/poker/) - A case based AI.
   ![2 players][2-player]
   ![NLHM][nlhm-badge]
+
+### Similar Games
+
+- [DouZero](https://github.com/kwai/DouZero) - DouZero is a reinforcement learning framework for [DouDizhu](https://en.wikipedia.org/wiki/Dou_dizhu).
+  ![any players][any-players]
+  ![Python Language][python-badge]
+  ![Open Source Love][open-source-badge]
 
 ## Poker Coaching
 
@@ -194,7 +219,9 @@ Host environments similar to online playing plateforms, often without gui. They 
 ## Poker and Gaming Papers
 
 - [DeepStack study](https://www.deepstack.ai/s/DeepStack.pdf) - Joint study that led to the [DeepStack agent](https://github.com/lifrordi/DeepStack-Leduc).
+- [DouZero paper](https://github.com/kwai/DouZero) - Zha, Daochen, et al. "DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning." arXiv preprint arXiv:2106.06135 (2021).
 - [Libratus study](https://www.cs.cmu.edu/~noamb/papers/17-arXiv-Subgame.pdf) - Study realised by the CMU exposing part of the Libratus bot ; published at the NIPS 2017.
+- [RLCard paper](https://github.com/datamllab/rlcard) - Zha, Daochen, et al. "RLCard: A Platform for Reinforcement Learning in Card Games." IJCAI. 2020.
 - [Superhuman AI for multiplayer poker](https://science.sciencemag.org/content/early/2019/07/10/science.aay2400) - Paper on the Pluribus agent ; published in Science on July 2019.
 
 ## Other Awesome Lists
